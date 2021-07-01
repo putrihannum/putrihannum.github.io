@@ -8,6 +8,10 @@
   color: black;
 }
 
+body {
+  padding-left: 4rem;
+}
+
 section {
   padding-top: 4rem;
 }
