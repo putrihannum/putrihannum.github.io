@@ -1,6 +1,7 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: black;
+  padding-inline-end: 0%;
   color: white;
 }
 
@@ -10,6 +11,7 @@
 
 #story {
   background-color: black;
+  padding-inline-end: 0%;
 }
 
 #gallery,
