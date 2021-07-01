@@ -2,16 +2,14 @@
   padding-top: 6rem;
   background-color: black;
   color: white;
-  background-attachment: fixed;
-}
-
-#story {
-  background-color: black;
-  background-attachment: fixed;
 }
 
 #about {
   color: black;
+}
+
+#story {
+  background-color: black;
 }
 
 section {
