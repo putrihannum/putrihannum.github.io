@@ -1,7 +1,7 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: black;
-  margin-right: 0%;
+  width: fit-content;
   color: white;
 }
 
@@ -11,12 +11,7 @@
 
 #story {
   background-color: black;
-  margin-right: 0%;
-}
-
-#gallery,
-.row {
-  color: black;
+  width: fit-content;
 }
 
 section {
