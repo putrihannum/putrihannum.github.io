@@ -1,8 +1,8 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: black;
-  width: fit-content;
   color: white;
+  width: auto;
 }
 
 #about {
@@ -11,7 +11,7 @@
 
 #story {
   background-color: black;
-  width: fit-content;
+  width: auto;
 }
 
 section {
