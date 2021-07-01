@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: black;
+  color: white;
+}
+
+#about {
+  color: black;
+}
+
+#story {
+  background-color: black;
+}
+
+#gallery,
+.row {
+  color: black;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+footer {
+  background-color: black;
+}
